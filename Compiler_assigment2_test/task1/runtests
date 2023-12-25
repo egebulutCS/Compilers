@@ -1,0 +1,4 @@
+javac *.java
+scalac *.scala
+
+scala MFBTester 1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=genDecl
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gens\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=d
+comment1.target=java.lang.String\ genDecl(Declaration)
+comment2.params=E
+comment2.target=java.lang.String\ genExp(Exp)
+comment3.params=
+comment3.target=java.lang.String\ newLabel()
+comment4.params=
+comment4.target=java.lang.String\ newLoop()
+comment5.params=
+comment5.target=java.lang.String\ newExit()
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CodegenException
+comment1.params=_msg
+comment1.target=CodegenException(java.lang.String)
+numComments=2

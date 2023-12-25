@@ -1,0 +1,2 @@
+looooooooooooooooooooooooooooooooooooooooooooooooooong_entry:
+	li $a0 999

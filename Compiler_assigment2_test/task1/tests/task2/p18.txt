@@ -1,0 +1,8 @@
+def p18  () = f ( 10 );
+
+def f ( x ) = (
+    while x >= 0 do
+        x := ( x-1 )
+    endwhile;   
+    x )
+    

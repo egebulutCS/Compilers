@@ -1,0 +1,14 @@
+def p1 () = f ( 100 )
+  ;
+def f ( x ) = (
+    while x >= 0 do (
+        if x == 50 then
+	   break
+	else 
+	   skip 
+	endif ;
+	x := ( x - 1 )
+	)
+    endwhile;
+    x
+)
